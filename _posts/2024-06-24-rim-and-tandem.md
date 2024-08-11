@@ -1,7 +1,10 @@
 +++
-title = 'Rim and Tandem'
-date = 2024-06-28T09:31:21-04:00
-draft = false
+layout: post
+title: "RIM and Tandem"
+date: 2024-06-24 08:24:00 -0000
+categories: bllindness Remote Access
+
+
 +++
 
 RIM (Remote Incident Manager) and Tandem are two programs that are accessible to people who are blind/visually impaired to remotely access computers. Tandem is only available if you use the JAWS screen reader, but RIM is available for both Windows and Mac computers. In fact, a person who is blind and uses RIM can access somebody's computer even if the computer has no screen reader installed.  Below are instructions for using both programs.

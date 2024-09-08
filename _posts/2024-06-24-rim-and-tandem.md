@@ -55,3 +55,10 @@ They need to use the arrow keys to see if there is a button that says receive he
 If they find that button, they need to press Enter on it.
 They need to type the key word you made up into the box that asks for a key word then press Enter.
 
+<script src="https://utteranc.es/client.js"
+        repo="rmann0581/technologyisawesome"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

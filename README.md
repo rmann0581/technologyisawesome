@@ -1,2 +1,1 @@
-# technologyisawesome
-Technology Tips and Updates
+# Technology Is Awesome
